@@ -8,3 +8,38 @@
     width: 200px;
     margin-top: 100px;
 }
+
+.trasparente {
+    color:rgb(172, 172, 172);
+}
+
+.azzuro {
+    color:rgb(53, 177, 231);
+}
+
+.sottolineare {
+    background-color: rgb(255, 255, 0);
+    
+}
+
+.lorem-sottolineare {
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+.sfondo-azzuro {
+    background-color: rgb(177, 229, 242);
+}
+
+.container {
+    position: relative;
+    color: white;
+  }
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 25px;
+    
+  }
